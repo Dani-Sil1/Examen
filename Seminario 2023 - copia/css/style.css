@@ -1,0 +1,130 @@
+body {
+background-color: #A77370;
+ 
+}
+.bg-jumbotron{
+   background-color:#FEE3E5;
+  background-size: contain;
+  background-position: 40%;
+  height: 75vh;
+  width: 1330px;
+  margin-left: 10px;
+ }
+h1{
+   font-family: "Lobster";
+   text-align: center;
+   margin-left: 150px;
+   color: black;
+}
+p{
+   font-family: "Lobster";
+   text-align: center;
+   color: black;
+   font-size: 50px;
+}
+.logo{
+ width: 1330px;
+   margin-left: 10px;
+}
+.foto{
+   width: 200px;
+   border-radius:50%;
+  
+}
+.pers{
+   background-color: #FEE3E5;
+   border-radius: 1%;
+   width: 1330px;
+   margin-left: 10px;
+  
+}
+.perso{
+   font-size: 30px;
+   font-family: "Dacing";
+
+}
+.auto{
+   width: 200px;
+}
+.card{
+   height: 67rem;
+
+   background-color: #EEADAA;
+   margin-left: 10px;
+   font-size: 10px;
+   font-family: "Dacing";
+}
+.card1{
+   height: 60rem;
+   width: 28rem;
+   background-color:#EEADAA;
+   margin-left: 10px;
+   font-size: 10px;
+   font-family: "Dacing";
+}
+.contienido{
+   background-color: #FDD4D7;
+   margin-left: 10px;
+}
+.conclu{
+   font-family: fantasy;
+   font: 30px;
+}
+.title{
+   font-size: 30px;
+   font-family: "Dacing";
+}
+.display-4{
+   font-size: 300px;
+   background-color:  #FEE3E5;
+}
+.co{
+background-color:  #D38F8F;
+border-radius:  1%;
+margin-left: 10px;
+width: 1330px;
+
+}
+.con{
+   font-family: 'Courier New', Courier, monospace;
+}
+.no1{
+   width: 200px;
+   border-radius:50%;
+}
+.no2{
+   width: 200px;
+   border-radius:50%;
+   rotate: 270deg;
+   margin-left: 120px;
+}
+.d-block{
+   width: 90px;
+   height: auto;
+}
+.con{
+   border-radius: 1%;
+   background-color:#F3D7CC ;
+   margin-top: 10px;
+   width: 1100px;
+   height: 503spx;
+   margin-left:10px;
+text-align: center;
+}
+.pa{
+   font-size: 50px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.conc{
+   border-radius: 1%;
+   background-color:#F3D7CC ;
+   margin-top: 10px;
+   width: 1200px;
+   height: 810px;
+   margin-left:10px;
+text-align: center;
+}.par{
+   font-size: 50px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-align: justify;
+}
